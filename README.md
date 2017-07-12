@@ -23,7 +23,7 @@ Repo about create your own opencv-android lib without install opencv manager apk
     //    }
     ```
 - copy **OpenCV-android-sdk/sdk/java/res/values/attrs.xml** to android opencv library **opencv/src/main/java/res/values/**
-- modify android opencv library file **opencv-android/src/main/java/res/values/string.xml**
+- modify android opencv library file **opencv/src/main/java/res/values/string.xml**
   ```
   <resources>
   <string name="app_name">OpenCV-2.4.13.2</string>
