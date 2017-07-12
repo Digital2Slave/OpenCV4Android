@@ -49,6 +49,12 @@ opencv-release.aar
 
 reference [this](http://stackoverflow.com/questions/16682847/how-to-manually-include-external-aar-package-using-new-gradle-android-build-syst)
 
+## Result screenshot
+
+![start](./0.png)
+
+![click](./1.png)
+
 ## Reference
 
 [opencv-android](https://github.com/steveliles/opencv-android)
