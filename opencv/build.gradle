@@ -18,6 +18,15 @@ android {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
+        // added by JohnTian
+        splits {
+            abi {
+                enable true
+                reset()
+                include 'armeabi-v7a'
+                universalApk false
+            }
+        }
     }
 }
 
