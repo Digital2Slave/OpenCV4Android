@@ -1,4 +1,7 @@
+This **[opencv-mobile](https://github.com/nihui/opencv-mobile)** repo is what all you want. 
+
 # OpenCV4Android
+
 Repo about create your own opencv-android lib without install opencv manager apk.
 
 ## Steps
